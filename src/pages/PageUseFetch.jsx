@@ -1,4 +1,5 @@
 const verbsUrl = 'https://edwardtanguay.netlify.app/share/germanNouns.json';
+const techBooksUrl = 'https://edwardtanguay.netlify.app/share/techBooks.json';
 
 export const PageUseFetch = () => {
 	return (
